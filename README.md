@@ -6,9 +6,8 @@ Using the Eye as an illustration, this is a project that shows the use of HTML a
 
 ## Table of Content
 * [Prerequisites](##Prerequisites)
-* [Installing Project 0](##Installing Project 0)
-* [Content of Project 0](##Content of Project 0)
-* [Contributors](##Contributors)
+* [Installing Project 0](## Installing Project 0)
+* [Content of Project 0](## Content of Project 0)
 * [Contact](##Contact)
 * [License](##License)
 
