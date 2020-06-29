@@ -6,8 +6,8 @@ Using the Eye as an illustration, this is a project that shows the use of HTML a
 
 ## Table of Content
 * [Prerequisites](##Prerequisites)
-* [Installing Project 0](## Installing Project 0)
-* [Content of Project 0](## Content of Project 0)
+* [Installing Project 0](##Installing_Project_0)
+* [Content of Project 0](##Content_of_Project_0)
 * [Contact](##Contact)
 * [License](##License)
 
@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installing Project 0
 
-Download the distro code for this project from https://cdn.cs50.net/web/2020/x/projects/0/project0.zip and unzip project0.zip, which should yield a directory called project0.
+Download the distro code for this project from https://github.com/Litern/project0/archive/master.zip and unzip project0.zip, which should yield a directory called project0.
 
 ## Content of Project 0
 
