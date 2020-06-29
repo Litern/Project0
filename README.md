@@ -5,12 +5,12 @@
 Using the Eye as an illustration, this is a project that shows the use of HTML and CSS programming languages. The pages are written in Html and CSS properties and are connected with each other. With the help of mobile responsive, Bootstrap 4 and Sass styling components, uses the grid model to layout the pages content and extend inherited variables.
 
 ## Table of Content
-* [Prerequisites][Prerequisites]
-* [Installing Project 0][Installing Project 0]
-* [Content of Project 0][Content of Project 0]
-* [Contributors][Contributors]
-* [Contact][Contact]
-* [License][License]
+* [Prerequisites](##Prerequisites)
+* [Installing Project 0](##Installing Project 0)
+* [Content of Project 0](##Content of Project 0)
+* [Contributors](##Contributors)
+* [Contact](##Contact)
+* [License](##License)
 
 
 ## Prerequisites
